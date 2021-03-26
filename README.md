@@ -1,0 +1,2 @@
+# lamp
+mysql conncet php
